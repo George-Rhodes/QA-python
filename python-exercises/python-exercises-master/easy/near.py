@@ -13,7 +13,6 @@ def near_word(word, word2):
         wordtest2 = ''
         wordtest = list(word)
         del wordtest[x]
-        #wordtest2  = wordtest.remove(x)
         wordtest2 = wordtest2.join(wordtest)
         print(wordtest2)
 
