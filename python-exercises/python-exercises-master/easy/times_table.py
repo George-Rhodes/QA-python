@@ -1,9 +1,4 @@
 
-
-
-
-
-
 def times_tabels():
     tables = []                                                            
     for i in range (1, 11):                               
@@ -13,19 +8,6 @@ def times_tabels():
         tables.append(new)
 
     return tables
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
