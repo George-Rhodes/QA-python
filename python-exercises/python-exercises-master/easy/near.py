@@ -22,10 +22,7 @@ def near_word(word, word2):
     
     return False
 
-if __name__ == '__main__':
 
-    test = near_word("reset", "rest")
-    print(test)
 
 
 
