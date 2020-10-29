@@ -1,5 +1,5 @@
 import pytest
-from applications import vowels
+from programs import vowels
 
 
 

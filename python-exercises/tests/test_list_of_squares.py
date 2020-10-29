@@ -1,5 +1,5 @@
 import pytest
-from applications import list_of_squares
+from programs import list_of_squares
 
 
 

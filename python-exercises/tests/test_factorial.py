@@ -1,5 +1,5 @@
 import pytest
-from applications import factorial
+from programs import factorial
 
 
 
