@@ -1,6 +1,5 @@
 import pytest
-from programs import hash_passwords
-
+from programs import hash_password
 
 
 
